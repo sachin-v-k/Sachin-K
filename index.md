@@ -14,10 +14,7 @@ Engineering.
 
 # Skills
 
-I'm a very quick learner. I built this resume by learning to use the personal edition of HelpNDoc, which is a Help
-Authoring Tool (HAT) similar to Madcap Flare and RoboHelp.
-
-* HelpNDoc, Confluence, HTML
+* HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, HTML
 * Word, PowerPoint, Excel; Paint (image manipulation)
 * Visio, LucidChart
 * SnagIT, Lightshot (screen capture)
@@ -25,8 +22,13 @@ Authoring Tool (HAT) similar to Madcap Flare and RoboHelp.
 * SharePoint, Egnyte (document repositories)
 * JIRA (task tracking with doc Kanban board / documentation workflow)
 
-My main strengths are communication, time management, and relationship building, which are crucial to succeed. I'm
-also functionally proficient in French; and have a limited conversational proficiency in Spanish.
+My main strengths to succeed are: 
+* learning new tools and concepts very quickly (as you see, this is my first Markdown page on GitHub)
+* communicating effectively
+* managing time efficiently
+* building & maintaining relationships
+
+I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
 ## Currently working @
 * Mobeewave since Aug 2018
