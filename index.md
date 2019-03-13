@@ -6,7 +6,7 @@ I'm a technical communicator with experience in, but not limited to:
 * process flow modeling
 * documentation standards (style & usage guides; glossary; templates; publication workflows)
 * editing & proofreading
-8 UX writing
+* UX writing
 
 A long time ago, I was a software developer; I can still communicate with developers and understand them to complete
 any task successfully. I'm also a certified English as a second language teacher and have a degree in Mechanical
@@ -16,6 +16,7 @@ Engineering.
 
 I'm a very quick learner. I built this resume by learning to use the personal edition of HelpNDoc, which is a Help
 Authoring Tool (HAT) similar to Madcap Flare and RoboHelp.
+
 * HelpNDoc, Confluence, HTML
 * Word, PowerPoint, Excel; Paint (image manipulation)
 * Visio, LucidChart
@@ -29,6 +30,3 @@ also functionally proficient in French; and have a limited conversational profic
 
 ## Currently working @
 * Mobeewave since Aug 2018
-
-## Past companies where I worked as a technical writer/editor
-* Interac
