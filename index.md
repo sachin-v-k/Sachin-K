@@ -23,7 +23,7 @@ Engineering.
 * JIRA (task tracking with doc Kanban board / documentation workflow)
 
 My main strengths to succeed are: 
-* learning new tools and concepts very quickly (as you see, this is my first Markdown page on GitHub)
+* learning new tools and concepts very quickly (this is my first Markdown page on GitHub)
 * communicating effectively
 * managing time efficiently
 * building & maintaining relationships
