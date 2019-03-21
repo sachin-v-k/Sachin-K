@@ -1,6 +1,6 @@
 # Mobeewave
-**Industry**: Fintech (Payment Solutions)\
-**Role**: Technical Writer\
+**Industry**: Fintech (Payment Solutions)  
+**Role**: Technical Writer  
 **Duration**: Aug 2018 - present  
 
 ## Project: Product Documentation
@@ -9,7 +9,7 @@ and the Merchant Portal.
 * Customize the mPOS user guide for Samsung, Commonwealth Bank of Australia, Global Payments Canada,
 National Bank of Canada, and Polskie ePlatnosci (PeP).
 * Write/maintain FAQs and a troubleshooting guide for the mPOS app.
-* Write/edit UX copy for the mPOS app, Acquirer Portal, and Merchant Portal.Sachin Komandur | Technical Writer/Editor | sachink2445@gmail.com | 289-654-5345 Page 3 of 4
+* Write/edit UX copy for the mPOS app, Acquirer Portal, and Merchant Portal.
 * Report bugs to QA.
 * Keep up-to-date on wireframe sketches for existing and in-development products; follow up regularly with product
 owners to update the guides in time for the release.
