@@ -1,6 +1,6 @@
 # Mobeewave
-**Industry**: Fintech (Payment Solutions)  
-**Role**: Technical Writer  
+**Industry**: Fintech (Payment Solutions)\
+**Role**: Technical Writer\
 **Duration**: Aug 2018 - present  
 
 ## Project: Product Documentation
