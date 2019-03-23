@@ -29,4 +29,4 @@ documents.
 ## Tools & Environment
 * Confluence, JIRA, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte, Windows
 
-[![about me](../images/previous page.png)](../index.md) | [next](interac.md)
+[about me](../index.md) | [interac](interac.md)
