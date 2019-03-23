@@ -22,13 +22,13 @@ Engineering.
 * SharePoint, Egnyte (document repositories)
 * JIRA (task tracking with doc Kanban board / documentation workflow)
 
-My main strengths to succeed are: 
-* learning new tools and concepts very quickly (this is my first Markdown page on GitHub)
+My main strengths are: 
+* learning new tools and concepts very quickly (_this is my first Markdown page_)
 * communicating effectively
 * managing time efficiently
-* building & maintaining relationships
+* building & maintaining relationships amicably
 
 I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
 ## Currently working @
-* [Mobeewave](mobeewave.md) since Aug 2018
+* [Mobeewave](workhistory/mobeewave.md) since Aug 2018
