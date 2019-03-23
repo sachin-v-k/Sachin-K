@@ -29,4 +29,4 @@ documents.
 ## Tools & Environment
 * Confluence, JIRA, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte, Windows
 
-[prev](Sachin-K\index.md) | [next](interac.md)
+[prev](Sachin-K/index.md) | [next](interac.md)
