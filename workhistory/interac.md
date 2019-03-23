@@ -28,7 +28,7 @@ transaction fees.
 the Infrastructure and the Operations teams.
 
 ### Project: Various assignments
-* Edited content (language use, grammar, and flow) for an audit report.Sachin Komandur | Technical Writer/Editor | sachink2445@gmail.com | 289-654-5345 Page 4 of 4
+* Edited content (language use, grammar, and flow) for an audit report.
 * Wrote an upgrade/installation procedure for AppDynamics.
 * Reviewed web content on developer hub and provided feedback on usability and language.
 * Sorted through hundreds of questions and answers to create a technical FAQ for eTransfer and Bulk Transfer.
