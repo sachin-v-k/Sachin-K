@@ -1,5 +1,5 @@
 # Mobeewave
-**Industry**: Payment Solutions (Fintech)
+**Industry**: Payment Solutions (Fintech)  
 **Role**: Technical Writer  
 **Duration**: Aug 2018 - present  
 
