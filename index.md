@@ -30,5 +30,5 @@ My main strengths are:
 
 I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
-## Currently working @
+# Currently @
 * [Mobeewave](workhistory/mobeewave.md) since Aug 2018

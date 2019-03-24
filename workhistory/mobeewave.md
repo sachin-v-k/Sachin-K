@@ -1,7 +1,8 @@
-# Mobeewave
+# Mobeewave Inc.
 **Industry**: Payment Solutions (Fintech)  
 **Role**: Technical Writer  
-**Duration**: Aug 2018 - present  
+**Duration**: Aug 2018 - present 
+**Location**: Montreal, Canada 
 
 ## Project: Product Documentation
 * Write/maintain end-user guides for the mobile point of sale (mPOS) app (the flagship product), the Acquirer Portal,
