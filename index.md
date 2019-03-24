@@ -12,7 +12,7 @@ A long time ago, I was a software developer; I can still communicate with develo
 any task successfully. I'm also a certified English as a second language teacher and have a degree in Mechanical
 Engineering.
 
-# Skills
+## Skills
 
 * HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, HTML
 * Word, PowerPoint, Excel; Paint (image manipulation)
@@ -30,5 +30,5 @@ My main strengths are:
 
 I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
-# Currently @
+## Currently @
 * [Mobeewave](workhistory/mobeewave.md) since Aug 2018
