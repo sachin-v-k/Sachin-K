@@ -1,7 +1,7 @@
 # Mobeewave Inc.
 **Industry**: Payment Solutions (Fintech)  
 **Role**: Technical Writer  
-**Duration**: Aug 2018 - present 
+**Duration**: Aug 2018 - present  
 **Location**: Montreal, Canada 
 
 ## Project: Product Documentation
