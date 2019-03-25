@@ -17,4 +17,4 @@ FRI | Financial software | 2005-6
 Compliance Associates | Pharmaceutical Validation software | 2005
 Advanced Computing Edge | Retail POS software | 2004
 
-[interac](interac.md)
+[about me](../index.md) | [interac](interac.md)
