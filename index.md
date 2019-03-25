@@ -21,8 +21,9 @@ Engineering.
 * Zeplin (UX)
 * SharePoint, Egnyte (document repositories)
 * JIRA (task tracking with doc Kanban board / documentation workflow)
+* Visual Studio Code editor, GitHub
 
-My main strengths are: 
+## Strengths 
 * learning new tools and concepts very quickly (_this is my first Markdown page_)
 * communicating effectively
 * managing time efficiently
