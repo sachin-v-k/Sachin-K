@@ -1,6 +1,6 @@
 # About me
 
-I'm a technical communicator with experience in, but not limited to:
+I'm a **technical communicator** with an education in **Mechanical Engineering**. I have experience in, but not limited to:
 * user & reference guides; handbooks; job aids
 * business, operations, & technical procedures
 * process flow modeling
@@ -8,9 +8,8 @@ I'm a technical communicator with experience in, but not limited to:
 * editing & proofreading
 * UX writing
 
-A long time ago, I was a software developer; I can still communicate with developers and understand them to complete
-any task successfully. I'm also a certified English as a second language teacher and have a degree in Mechanical
-Engineering.
+In my previous career, I was a software developer; so, I can still communicate with developers and understand them to complete
+any task successfully. I'm also a **certified English as a second language teacher**.
 
 ## Skills
 
