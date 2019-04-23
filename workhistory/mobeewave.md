@@ -14,6 +14,7 @@ National Bank of Canada, and Polskie ePlatnosci (PeP).
 * Report bugs to QA.
 * Keep up-to-date on wireframe sketches for existing and in-development products; follow up regularly with product
 owners to update the guides in time for the release.
+* Coordinate translation of content into French; and input content on Confluence.
 
 ## Project: Tech Publication Standards
 * Created a style guide; a usage guide; and a glossary.
