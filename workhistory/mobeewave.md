@@ -19,7 +19,7 @@ owners to update the guides in time for the release.
 ## Project: Tech Publication Standards
 * Created a style guide; a usage guide; and a glossary.
 * Built Word, Confluence, and Scroll PDF Converter templates.
-* Created internal editing and writing processes; and editing guidelines
+* Created internal editing and writing processes; and editing guidelines.
 * Worked with the JIRA team to implement a documentation workflow.
 
 ## Project: Misc
