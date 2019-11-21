@@ -30,5 +30,5 @@ any task successfully. I'm also a **certified English as a second language teach
 
 I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
-## Currently @
-* [Mobeewave](workhistory/mobeewave.md) since Aug 2018
+## Experience
+[Mobeewave](../mobeewave.md) | [Interac](interac.md) | [Past companies](past_companies.md)
