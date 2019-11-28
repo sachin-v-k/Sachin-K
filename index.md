@@ -1,6 +1,6 @@
 # About me
 
-I'm a **senior technical communicator (writer/editor)** with an education in **Mechanical Engineering**. I have experience in, but not limited to:
+I'm a **technical communicator (writer/editor)** with an education in **Mechanical Engineering**. I have experience in, but not limited to:
 * user & reference guides; handbooks; job aids
 * business, operations, & technical procedures
 * process flow modeling
