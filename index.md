@@ -27,4 +27,4 @@ I'm also functionally proficient in French; and have a limited conversational pr
 * [Icati Inc.](workhistory/icati.md)
 * [Mobeewave](workhistory/mobeewave.md)
 * [Interac](workhistory/interac.md)
-* [Past companies](workhistory/past_clients.md)
+* [Past clients](workhistory/past_clients.md)
