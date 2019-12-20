@@ -13,22 +13,18 @@ any task successfully. I'm also a **certified English as a second language teach
 
 ## Skills
 
-* HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, HTML
-* Word, PowerPoint, Excel; Paint (image manipulation)
-* Visio, LucidChart
-* SnagIT, Lightshot (screen capture)
-* Zeplin (UX)
-* SharePoint, Egnyte (document repositories)
-* JIRA (task tracking with doc Kanban board / documentation workflow)
-* Visual Studio Code editor, GitHub
+HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word, PowerPoint, Excel, Visio, LucidChart, SnagIT, Lightshot, Zeplin (UX), SharePoint, Egnyte, JIRA
 
 ## Strengths 
-* learning new tools and concepts very quickly (_this is my first Markdown page_)
-* communicating effectively
-* managing time efficiently
-* building & maintaining relationships amicably
+* Learning new tools and concepts very quickly (_this is my first Markdown page_)
+* Communicating effectively with stakeholders
+* Managing time efficiently
+* Building and maintaining relationships amicably
 
 I'm also functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
 ## Experience
-[Mobeewave](workhistory/mobeewave.md) | [Interac](workhistory/interac.md) | [Past companies](workhistory/past_companies.md)
+* [Icati Inc.](workhistory/icati.md)
+* [Mobeewave](workhistory/mobeewave.md)
+* [Interac](workhistory/interac.md)
+* [Past companies](workhistory/past_clients.md)
