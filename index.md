@@ -1,15 +1,14 @@
 # About me
 
-I'm a **technical communicator (writer/editor)** with an education in **Mechanical Engineering**. I have experience in, but not limited to:
+I'm a technical communicator (writer/editor) with 10+ years of experience. I have experience in, but not limited to:
 * user & reference guides; handbooks; job aids
 * business, operations, & technical procedures
 * process flow modeling
-* documentation standards (style & usage guides; glossary; templates; publication workflows)
+* documentation standards (style & usage guides; glossaries; templates; publication workflows)
 * editing & proofreading
 * UX writing
 
-In my previous career, I was a software developer; so, I can still communicate with developers and understand them to complete
-any task successfully. I'm also a **certified English as a second language teacher**.
+In my previous career, I was a software developer. I'm also a certified ESL teacher; and have a B.Sc. in Mechanical Engineering. I'm functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
 ## Skills
 
