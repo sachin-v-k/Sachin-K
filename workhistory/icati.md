@@ -13,6 +13,6 @@ Mar 2019 - present
 * Translated a 125-question survey from French to English.
 
 *Tools*  
-Google Docs
+Google Docs, Word
 
 [about me](../index.md) | [mobeewave](mobeewave.md)
