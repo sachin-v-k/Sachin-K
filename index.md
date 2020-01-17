@@ -9,7 +9,7 @@ I'm a technical communicator (writer/editor) with 10+ years of experience. I hav
 
 In my previous career, I was a software developer. I'm also a certified ESL teacher; and have a Bachelor's in Mechanical Engineering. I'm functionally proficient in French; and have a limited conversational proficiency in Spanish.
 
-### LinkedIn
+#### LinkedIn
 <https://www.linkedin.com/in/sachin-k/>
 
 ## Skills
