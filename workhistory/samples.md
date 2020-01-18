@@ -1,11 +1,17 @@
-## 2019 Mobeewave
+# 2019
 
-![mPOS User Guide](2019 - mPOS user guide home page.png)
+## Mobeewave
 
-[Registering your account](2019 - Registering your account.pdf)
+#### mPOS User Guide
+!(2019 - mPOS user guide home page.png)
 
-![Merchant Portal User Guide](2019 - Merchant Portal User Guide.png)
+#### Registering your account
+(2019 - Registering your account.pdf)
 
-![Acquirer Portal User Guide](2019 - Acquirer Portal User Guide.png)
+#### Merchant Portal User Guide
+!(2019 - Merchant Portal User Guide.png)
+
+#### Acquirer Portal User Guide
+!(2019 - Acquirer Portal User Guide.png)
 
 [about me](../index.md)
