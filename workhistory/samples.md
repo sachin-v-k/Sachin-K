@@ -14,4 +14,7 @@
 #### Acquirer Portal User Guide
 ![3](2019 - Acquirer Portal User Guide.png)
 
+#### Troubleshooting
+![4](2019 - Troubleshooting.png)
+
 [about me](../index.md)
