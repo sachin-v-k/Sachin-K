@@ -2,7 +2,7 @@
 Freelance Writer        
 Mar 2019 - present  
 
-*RestoMinute* (restominute.ca)
+*Resto Minute* (restominute.ca)
 * Set the communication style.
 * Wrote: 
     * a Facebook post on the trends in the restaurant industry in 2020
