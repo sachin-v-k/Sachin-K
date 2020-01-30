@@ -27,5 +27,6 @@ HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word,
 * [Interac](workhistory/interac.md)
 * [Past clients](workhistory/past_clients.md)
 
-## Portfolio
-* [Samples](workhistory/samples.md)
+<!--- (## Portfolio)
+* [Samples](workhistory/samples.md) 
+---!>
