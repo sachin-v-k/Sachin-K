@@ -14,7 +14,10 @@
 #### Acquirer Portal User Guide
 ![3](2019 - Acquirer Portal User Guide.png)
 
+#### UX Input
+![4](2019 - UX example.png)
+
 #### Troubleshooting
-![4](2019 - Troubleshooting.png)
+![5](2019 - Troubleshooting.png)
 
 [about me](../index.md)
