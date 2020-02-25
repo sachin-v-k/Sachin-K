@@ -17,8 +17,8 @@ HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word,
 
 ## Strengths 
 * Learning new tools and concepts quickly
-* Communicating effectively with stakeholders
-* Managing time efficiently
+* Communicating effectively with stakeholders and cross-functional teams
+* Facilitating and managing time efficiently
 * Building and maintaining relationships amicably
 
 ## Experience
