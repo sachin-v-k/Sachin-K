@@ -28,4 +28,4 @@ documents.
 *Tools*
 * Confluence, JIRA, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte
 
-[icati](icati.md) | [interac](interac.md)
+[freelance](freelance.md) | [interac](interac.md)
