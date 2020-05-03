@@ -24,7 +24,7 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Coaching and training individuals and teams successfully
 
 ## Certificates
-* Accessibility for Ontarians with Disabilities Act (AODA), Gov't of Ontario
+* Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group
 * Enterprise Design Thinking Practitioner (EDTP), IBM
 * Certified Scrum Master (CSM), Scrum Alliance
 * Teaching English as a Second Language (CertTESOL), Trinity College, UK
