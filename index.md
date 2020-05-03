@@ -1,5 +1,5 @@
 # About me
-I'm a technical communicator (writer/editor) with 10+ years of experience. I have experience in, but not limited to:
+I'm a technical communicator (writer/editor) with 11+ years of experience. I have experience in, but not limited to:
 * user & reference guides; handbooks; job aids
 * business, operations, & technical procedures
 * process flow modeling
@@ -7,22 +7,32 @@ I'm a technical communicator (writer/editor) with 10+ years of experience. I hav
 * editing & proofreading
 * UX writing
 
-I'm also a _Certified Scrum Master_ (Scrum Alliance); an _Enterprise Design Thinking Practitioner_ (IBM); and a certified ESL teacher (Trinity College, UK; recognized by TESL Canada). In my previous career, I was a software developer. I have a Bachelor's in Mechanical Engineering. I'm functionally proficient in French; and have a limited proficiency in Spanish.
+In my previous career, I was a software developer; and I have a Bachelor's degree in Mechanical Engineering. 
 
 #### LinkedIn
 <https://www.linkedin.com/in/sachin-k/>
 
 ## Skills
-HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word, PowerPoint, Excel, Visio, LucidChart, SnagIT, Lightshot, Zeplin (UX), SharePoint, Egnyte, JIRA
+* HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word, PowerPoint, Excel, Visio, LucidChart, SnagIT, Lightshot, Zeplin (UX), SharePoint, Egnyte, JIRA
+* Functional proficiency in French; and limited proficiency in Spanish
 
 ## Strengths 
 * Learning new tools and concepts quickly
 * Communicating effectively with stakeholders and cross-functional teams
 * Facilitating and managing time efficiently
 * Building and maintaining relationships amicably
+* Coaching and training individuals and teams successfully
+
+## Certificates
+* Accessibility for Ontarians with Disabilities Act (AODA), Gov't of Ontario
+* Enterprise Design Thinking Practitioner (EDTP), IBM
+* Certified Scrum Master (CSM), Scrum Alliance
+* Teaching English as a Second Language (CertTESOL), Trinity College, UK
+* Communications & Writing, Harvard ManageMentor
+* Communications 101, SkillSoft
 
 ## Experience
-* [Icati Inc.](workhistory/icati.md)
+* [Freelance](workhistory/freelance.md)
 * [Mobeewave](workhistory/mobeewave.md)
 * [Interac](workhistory/interac.md)
 * [Past clients](workhistory/past_clients.md)
