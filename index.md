@@ -23,7 +23,8 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Building and maintaining relationships amicably
 * Coaching and training individuals and teams successfully
 
-## Certificates
+## Certificates & Badges
+* Cloud Core (Basics of Cloud technology), IBM
 * Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group 
 * Enterprise Design Thinking Practitioner (EDTP), IBM
 * Certified Scrum Master (CSM), Scrum Alliance
