@@ -6,10 +6,9 @@ Mar 2019 - present
 
 *Resto Minute* (restominute.ca)
 * Set the communication style.
-* Write/edit product documentation, marketing content, blog posts, job descriptions, and UX copy.
-* Correspond with customers to facilitate demos and registrations; and answer their questions.
-* Wrote a letter to Apple to successfully resolve an app store complaint in favor of my client.
-* Translated a 125-question survey from French to English.
+* Write/edit miscellaneous content (product, marketing, surveys, blog posts, job descriptions, prospective emails, UX microcopy).
+* Facilitate customer demos and registrations; and provide support.
+* Translate from French to English.
 
 *Tools*  
 Google Docs, Word
