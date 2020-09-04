@@ -1,11 +1,11 @@
 # About me
-I'm a technical communicator (writer/editor) with 11+ years of experience. I have experience in, but not limited to:
-* user & reference guides; handbooks; job aids
-* business, operations, & technical procedures
+I'm a technical communicator (writer/editor) with 12+ years of experience. I have experience in, but not limited to:
+* software/product documentation (guides, manuals, and handbooks)
+* business, operational, and technical procedures (instructions and job aids)
 * process flow modeling
-* documentation standards (style & usage guides; glossaries; templates; publication workflows)
-* editing & proofreading
-* UX writing
+* documentation standards (style & usage guides, glossaries, templates, and forms)
+* editing
+* user experience (UX) writing
 
 In my previous career, I was a software developer; and I have a Bachelor's degree in Mechanical Engineering. 
 
