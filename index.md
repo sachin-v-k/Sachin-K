@@ -24,6 +24,10 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Coaching and training individuals and teams successfully
 
 ## Certificates & Badges
+* Learn API Technical Writing, Udemy
+    * JSON/XML
+    * REST APIs
+    * The Art of API Documentation
 * Cloud Core (Basics of Cloud technology), IBM
 * Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group 
 * Enterprise Design Thinking Practitioner (EDTP), IBM
