@@ -26,6 +26,6 @@ documents.
 * Created & administered a written test for potential technical writing hires; interviewed potential candidates.
 
 *Tools*
-* Confluence, JIRA, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte
+* Confluence, Jira, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte
 
 [Freelance](freelance.md) | [Interac](interac.md)
