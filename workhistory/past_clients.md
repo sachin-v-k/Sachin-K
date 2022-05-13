@@ -8,4 +8,4 @@ Jun 2004 - Sep 2016
 * _Electronics_: Genesis Microchip Inc.
 * _Pharmaceutical_: Compliance Associates Inc.
 
-[about me](../index.md) | [interac](interac.md)
+[About me](../index.md) | [Interac](interac.md)
