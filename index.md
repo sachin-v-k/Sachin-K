@@ -22,9 +22,10 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 
 * Learning new tools and concepts quickly
 * Communicating effectively with stakeholders and cross-functional teams
-* Facilitating and managing time efficiently
 * Building and maintaining relationships amicably
-* Coaching and training individuals and teams successfully
+* Training individuals and teams successfully
+* Facilitating meetings and managing time efficiently
+
 
 ## Certificates & Badges
 * Information Architecture basics, Udemy
