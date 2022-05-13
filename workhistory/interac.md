@@ -36,4 +36,4 @@ notes and requirements for an application monitoring tool (AppDynamics).
 *Tools*
 * Confluence, JIRA, ServiceNow, Word, Visio
 
-[mobeewave](mobeewave.md) | [past clients](past_clients.md)
+[Mobeewave](mobeewave.md) | [Past clients](past_clients.md)
