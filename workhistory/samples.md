@@ -20,4 +20,4 @@
 #### Troubleshooting
 ![5](2019 - Troubleshooting.png)
 
-[about me](../index.md)
+[About me](../index.md)
