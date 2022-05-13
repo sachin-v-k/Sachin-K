@@ -34,6 +34,6 @@ the Infrastructure and the Operations teams.
 notes and requirements for an application monitoring tool (AppDynamics).
 
 *Tools*
-* Confluence, JIRA, ServiceNow, Word, Visio
+* Confluence, Jira, ServiceNow, Word, Visio
 
 [Mobeewave](mobeewave.md) | [Past clients](past_clients.md)
