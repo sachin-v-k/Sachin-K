@@ -2,15 +2,15 @@
 
 ## Icati Inc.
 Communications Specialist        
-Mar 2019 - present  
+Mar 2019 - Jan 2022  
 
 *Resto Minute* (restominute.ca)
 * Set the communication style.
-* Write/edit miscellaneous content (product, web, marketing, surveys, blog posts, job descriptions, prospective emails, UX microcopy).
-* Facilitate customer demos and registrations; and provide support.
-* Translate from French to English.
+* Wrote/edited miscellaneous content (product, web, marketing, surveys, blog posts, job descriptions, prospective emails, UX microcopy).
+* Facilitated customer demos and registrations; and provide support.
+* Translated from French to English.
 
 *Tools*  
 Google Docs, Word
 
-[about me](../index.md) | [mobeewave](mobeewave.md)
+[Flutter](flutter.md) | [Mobeewave](mobeewave.md)
