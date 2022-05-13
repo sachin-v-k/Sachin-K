@@ -1,10 +1,12 @@
 # About me
-I'm a technical communicator (writer/editor) with 12+ years of experience. I have experience in, but not limited to:
+I'm a technical communications specialist (writer) with experience in, but not limited to:
+* information architecture
+* knowledge management
 * software/product documentation (guides, manuals, and handbooks)
 * business, operational, and technical procedures (instructions and job aids)
-* process flow modeling
+* process mapping
 * documentation standards (style & usage guides, glossaries, templates, and forms)
-* editing
+* technical editing
 * user experience (UX) writing
 
 In my previous career, I was a software developer; and I have a Bachelor's degree in Mechanical Engineering. 
@@ -13,10 +15,11 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 <https://www.linkedin.com/in/sachin-k/>
 
 ## Skills
-* HelpNDoc (similar to MadCap Flare & RoboHelp), Confluence, Markdown, HTML, Word, PowerPoint, Excel, Visio, LucidChart, SnagIT, Lightshot, Zeplin (UX), SharePoint, Egnyte, JIRA
-* Functional proficiency in French; and limited proficiency in Spanish
+* Help Authoring Tools, Confluence, Jira, Markdown, HTML editors, LucidChart, LucidSpark; Microsoft's Word, PowerPoint, Excel, Visio, and Whiteboard; Google's Docs, Slides, and Spreadsheets
+* Functional proficiency in French and Spanish
 
-## Strengths 
+## Strengths
+
 * Learning new tools and concepts quickly
 * Communicating effectively with stakeholders and cross-functional teams
 * Facilitating and managing time efficiently
@@ -24,10 +27,7 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Coaching and training individuals and teams successfully
 
 ## Certificates & Badges
-* Learn API Technical Writing, Udemy
-    * JSON/XML
-    * REST APIs
-    * The Art of API Documentation
+* Information Architecture basics, Udemy
 * Cloud Core (Basics of Cloud technology), IBM
 * Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group 
 * Enterprise Design Thinking Practitioner (EDTP), IBM
@@ -37,6 +37,7 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Communications 101, SkillSoft
 
 ## Experience
+* [Flutter International](workhistory/flutter.md)
 * [Freelance](workhistory/freelance.md)
 * [Mobeewave](workhistory/mobeewave.md)
 * [Interac](workhistory/interac.md)
