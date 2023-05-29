@@ -13,7 +13,7 @@ National Bank of Canada, and Polskie ePlatnosci (PeP).
 * Kept up-to-date on wireframe sketches for existing and in-development products; followed up regularly with stakeholders to update the guides in time for the release.
 * Coordinated translation of content into French; and added the translated content in Confluence.
 
-*Publication Standards*
+*Technical Publication Standards*
 * Created a style guide; a usage guide; and a glossary.
 * Built Word, Confluence, and Scroll PDF Converter templates.
 * Created internal editing and writing processes; and editing guidelines.
@@ -26,6 +26,6 @@ documents.
 * Created & administered a written test for potential technical writing hires; interviewed potential candidates.
 
 *Tools*
-* Confluence, JIRA, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte
+* Confluence, Jira, Scroll PDF Converter, Word (Office 365), Lucidchart, Zeplin, Clubhouse, Egnyte
 
-[freelance](freelance.md) | [interac](interac.md)
+[Freelance](freelance.md) | [Interac](interac.md)
