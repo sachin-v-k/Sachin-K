@@ -15,7 +15,7 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 <https://www.linkedin.com/in/sachin-k/>
 
 ## Skills
-* Help Authoring Tools, Confluence, Jira, Markdown, HTML editors, LucidChart, LucidSpark; Microsoft's Word, PowerPoint, Excel, Visio, and Whiteboard; Google's Docs, Slides, and Spreadsheets
+* Help Authoring Tools, Confluence, Jira, Markdown, HTML, DITA, Python (basics), LucidChart, LucidSpark; Microsoft's Word, PowerPoint, Excel, Visio, and Whiteboard; Google's Docs, Slides, and Spreadsheets
 * Functional proficiency in French and Spanish
 
 ## Strengths
