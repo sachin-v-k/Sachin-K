@@ -1,13 +1,13 @@
 # About me
 I'm a technical communications specialist (writer) with experience in, but not limited to:
-* information architecture
-* knowledge management
 * software/product documentation (guides, manuals, and handbooks)
 * business, operational, and technical procedures (instructions and job aids)
 * process mapping
 * documentation standards (style & usage guides, glossaries, templates, and forms)
 * technical editing
 * user experience (UX) writing
+* information architecture
+* knowledge management
 
 In my previous career, I was a software developer; and I have a Bachelor's degree in Mechanical Engineering. 
 
@@ -19,7 +19,6 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 * Functional proficiency in French and Spanish
 
 ## Strengths
-
 * Learning new tools and concepts quickly
 * Communicating effectively with stakeholders and cross-functional teams
 * Building and maintaining relationships amicably
@@ -28,14 +27,15 @@ In my previous career, I was a software developer; and I have a Bachelor's degre
 
 
 ## Certificates & Badges
-* Information Architecture basics, Udemy
-* Cloud Core (Basics of Cloud technology), IBM
-* Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group 
-* Enterprise Design Thinking Practitioner (EDTP), IBM
-* Certified Scrum Master (CSM), Scrum Alliance
-* Teaching English as a Second Language (CertTESOL), Trinity College, UK
-* Communications & Writing, Harvard ManageMentor
-* Communications 101, SkillSoft
+* Information Architecture Fundamentals, Udemy (Jan 2022)
+* UX and Information Architecture for Technical Writers, Udemy (Jan 2022)
+* API Technical Writing: JSON/XML, REST APIs, and Art of API Documentation; Udemy (2021)
+* Introduction to Cloud, IBM (Aug 2020)
+* Alliance Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group (May 2020)
+* Enterprise Design Thinking Practitioner (EDTP), IBM (Mar 2020)
+* Certified Scrum Master, Scrum Alliance (Feb 2020-22)
+* Teaching English as a Second Language (CertTESOL), Trinity College, UK (June 2014)
+* Communications 101, SkillSoft (Jan 2005)
 
 ## Experience
 * [Flutter International](workhistory/flutter.md)
