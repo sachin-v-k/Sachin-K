@@ -11,6 +11,8 @@ I'm a technical communications specialist (writer) with experience in, but not l
 
 In my previous career, I was a software developer; and I have a Bachelor's degree in Mechanical Engineering. 
 
+**Note**: <mark>I was out of the country from Nov 2022 to May 2023.</mark>
+
 #### LinkedIn
 <https://www.linkedin.com/in/sachin-k/>
 
