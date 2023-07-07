@@ -1,5 +1,8 @@
 # About me
-I'm a technical communications specialist (writer) with experience in, but not limited to:
+
+Location: Canada (Eastern time)
+
+I'm a technical writer/editor with experience in, but not limited to:
 * software/product documentation (guides, manuals, and handbooks)
 * business, operational, and technical procedures (instructions and job aids)
 * process mapping
