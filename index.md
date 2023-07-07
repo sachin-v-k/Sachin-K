@@ -1,6 +1,6 @@
 # About me
 
-Location: Canada (Eastern time)
+_Location_: Canada (Eastern time)
 
 I'm a technical writer/editor with experience in, but not limited to:
 * software/product documentation (guides, manuals, and handbooks)
