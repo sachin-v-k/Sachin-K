@@ -35,7 +35,7 @@ _Location_: Canada (Eastern time)
 * Communications 101, SkillSoft (Jan 2005)
 
 ## Experience
-* [Flutter International](workhistory/flutter.md)
+* [Flutter](workhistory/flutter.md)
 * [Freelance](workhistory/freelance.md)
 * [Mobeewave](workhistory/mobeewave.md)
 * [Interac](workhistory/interac.md)
