@@ -1,4 +1,4 @@
-# Flutter International Plc.
+# Flutter Entertainment Plc.
 Senior Technical Writer  
 Oct 2020 - May 2022  
 
