@@ -9,6 +9,6 @@
 # 2017
 
 #### AppDynamics Installation Procedures
-![View document](2017 - AppDynamics Installation Procedures.pdf)
+![view document](2017 - AppDynamics Installation Procedures.pdf)
 
 [About me](../index.md)
