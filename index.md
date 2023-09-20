@@ -19,7 +19,7 @@ _Location_: Canada (Eastern time)
 ## Strengths
 * Learning new tools and concepts quickly
 * Communicating effectively with stakeholders and cross-functional teams
-* Building and maintaining relationships amicably
+* Building and maintaining good relationships
 * Training individuals and teams successfully
 * Facilitating meetings, prioritizing tasks, and managing time efficiently
 
