@@ -2,8 +2,8 @@
 
 _Location_: Canada (Eastern time)
 
-* Over 10 years of experience as a technical writer and editor
-* 4 years of previous software development experience
+* Over 3 years of experience as a business systems analyst
+* Previous programmer/analyst and technical writing experience
 * Certified Scrum Master, Scrum Alliance
 * Bachelor’s degree in Mechanical Engineering
 
@@ -13,7 +13,8 @@ _Location_: Canada (Eastern time)
 <https://www.linkedin.com/in/sachin-k/>
 
 ## Skills
-* Help Authoring Tools, Confluence, Jira, Markdown, HTML, DITA, Python, LucidChart, LucidSpark; Microsoft's Word, PowerPoint, Excel, Visio, and Whiteboard; G-Suite: Docs, Slides, and Spreadsheets
+* Communication, documentation, facilitation, training, Agile, Scrum, process mapping/modeling, workflows, requirements, specifications, user acceptance testing (UAT), HTML, Markdown, SQL 
+* Confluence, Jira, Python (basics), LucidChart, Draw.io, Visio; Microsoft Word, PowerPoint, Excel, and Whiteboard; Google Docs, Slides, and Spreadsheet, Power BI, Power Automate
 * Functional proficiency in French and Spanish
 
 ## Strengths
@@ -24,20 +25,8 @@ _Location_: Canada (Eastern time)
 * Facilitating meetings, prioritizing tasks, and managing time efficiently
 
 ## Certificates & Badges
-* Diploma in Python Programming, Alison (Jun-Jul 2023)
 * Information Architecture Fundamentals, Udemy (Jan 2022)
-* UX and Information Architecture for Technical Writers, Udemy (Jan 2022)
-* API Technical Writing (Jun-Jul 2021)
-* Introduction to Cloud, IBM (Aug 2020)
-* Accessibility for Ontarians with Disabilities Act (AODA), Occupational Safety Group (May 2020)
-* Enterprise Design Thinking Practitioner (EDTP), IBM (Mar 2020)
-* Teaching English as a Second Language (CertTESOL), Trinity College, UK (June 2014)
-* Communications 101, SkillSoft (Jan 2005)
-
-## Experience
-* [Flutter](workhistory/flutter.md)
-* [Freelance](workhistory/freelance.md)
-* [Mobeewave](workhistory/mobeewave.md)
-* [Interac](workhistory/interac.md)
-* [Past clients](workhistory/past_clients.md)
-* [Samples](workhistory/samples.md)
+* Intro to Service Management with ITIL 4, Udemy (Jul 2021)
+* Business Process Modeling for Business Analysts, Udemy (Jul 2021)
+* Process Improvement, Udemy (Jul 2021)
+* Process Mapping (Beginner’s and Advanced), Udemy (Jun-Jul 2021)
